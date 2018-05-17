@@ -23,7 +23,6 @@ offerings:
     - image: /img/coffee-gear.png
       text: > 
         If you require any information on lagging and cladding, electrical installation, plumbing, masonry works, the supplying of allied materials, please do not hesitate to contact us. We look forward to a,cordial business relationship 
-      - image: /img/tutorials.png
 testimonials:
   - author: Vaibhav Sharma
     quote: >-
