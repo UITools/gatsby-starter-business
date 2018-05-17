@@ -20,10 +20,10 @@ offerings:
         Boilers, electrical installation, plumbing, masonry works, and supplying of allied raw materials, Glamuo is known for.         high performance in lagging and cladding & insulAtion of steamlines, publicating, condenser 
         Tanks etc.
         With over 23 years, we  have been offering our services in Kenya, Uganda, Malawi, Tanzania, Burundi, Ethiopia, Nigeria, Mauritius, and South Africa. Glaumo has a wide range of lagging and cladding. 
-- image: /img/coffee-gear.png
+      - image: /img/coffee-gear.png
       text: > 
         If you require any information on lagging and cladding, electrical installation, plumbing, masonry works, the supplying of allied materials, please do not hesitate to contact us. We look forward to a,cordial business relationship 
-- image: /img/tutorials.png
+      - image: /img/tutorials.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus vitae sollicitudin 
         pharetra, ipsum augue tristique urna, in rhoncus quam tortor eget sem. Maecenas eu 
@@ -33,7 +33,7 @@ offerings:
         Sed luctus lacus vel tempus posuere. Ut suscipit auctor tortor. Phasellus leo dui, elementum 
         non sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet porttitor vehicula, 
         quam augue pretium erat, at commodo nisl tellus non risus.
-    - image: /img/meeting-space.png
+      - image: /img/meeting-space.png
       text: >
         Vestibulum libero lectus, dignissim eget magna sit amet, malesuada tincidunt mi. Vivamus 
         sed erat iaculis mauris efficitur vehicula. Aliquam sed urna at tellus ullamcorper 
