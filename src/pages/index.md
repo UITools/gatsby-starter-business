@@ -1,7 +1,7 @@
 ---
 templateKey: 'home-page'
 title: Gatsby Starter Business
-meta_title: Home | Gatsby Starter Business
+meta_title: Home | Glaumo Engineering Enterprise
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
@@ -20,7 +20,7 @@ offerings:
         Boilers, electrical installation, plumbing, masonry works, and supplying of allied raw materials, Glamuo is known for.         high performance in lagging and cladding & insulAtion of steamlines, publicating, condenser 
         Tanks etc.
         With over 23 years, we  have been offering our services in Kenya, Uganda, Malawi, Tanzania, Burundi, Ethiopia, Nigeria, Mauritius, and South Africa. Glaumo has a wide range of lagging and cladding. 
-      - image: /img/coffee-gear.png
+    - image: /img/coffee-gear.png
       text: > 
         If you require any information on lagging and cladding, electrical installation, plumbing, masonry works, the supplying of allied materials, please do not hesitate to contact us. We look forward to a,cordial business relationship 
       - image: /img/tutorials.png
